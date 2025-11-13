@@ -1,0 +1,9 @@
+{
+  "name": "quiz-management-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start:server": "node server/index.js",
+    "start:client": "echo \"Run a client dev server inside client/ (e.g. create-react-app or Vite)\""
+  }
+}
